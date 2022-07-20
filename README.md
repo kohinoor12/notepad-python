@@ -8,7 +8,7 @@
 
 # Notepad Application
 <p align="center">
-<div align="center"><img src="https://github.com/kohinoor12/notepad-python/blob/07b115ca7b21d8aa910e889e813fe6c04f3cff89/notepad.png" width=20% height=20%></div>
+<div align="center"><img src="https://github.com/kohinoor12/notepad-python/blob/07b115ca7b21d8aa910e889e813fe6c04f3cff89/notepad.png" width=30% height=30%></div>
 
 ## 🛠️ Description
 
